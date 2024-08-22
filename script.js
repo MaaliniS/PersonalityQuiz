@@ -77,8 +77,8 @@ function updateResult() {
         result.innerHTML = "You are a bender! You can bend one of the elements (water, earth, fire, or air) and you’re pretty good at it. Some awesome benders include Katara, Aang, Toph, Zuko, Azula, Korra, and Iroh. Congrats!"
         console.log("You are a bender! You can bend one of the elements (water, earth, fire, or air) and you’re pretty good at it. Some awesome benders include Katara, Aang, Toph, Zuko, Azula, Korra, and Iroh. Congrats!");
     } else if(nonbenderScore >= 2) {
-        result.innerHTML = "You are a nonbender! Swords, fans, knives, tecnology, and acrobatics are your friends. You’re a skilled and hard worker. Some talented nonbenders include Sokka, Ty Lee, Mai, Asami, and Varrick! Congrats!";
-        console.log("You are a nonbender! Swords, fans, knives, tecnology, and acrobatics are your friends. You’re a skilled and hard worker. Some talented nonbenders include Sokka, Ty Lee, Mai, Asami, and Varrick! Congrats!")
+        result.innerHTML = "You are a nonbender! Swords, fans, knives, technology, and acrobatics are your friends. You’re a skilled and hard worker. Some talented nonbenders include Sokka, Ty Lee, Mai, Asami, and Varrick! Congrats!";
+        console.log("You are a nonbender! Swords, fans, knives, technology, and acrobatics are your friends. You’re a skilled and hard worker. Some talented nonbenders include Sokka, Ty Lee, Mai, Asami, and Varrick! Congrats!")
     }
 }
 
